@@ -1,4 +1,4 @@
-consoleText('Hi there', 'output', 'console');
+consoleText('Hi there', 'output', 'console-line');
 
 function consoleText(letters, textId, consoleId) {
   var visible = true;
@@ -8,7 +8,9 @@ function consoleText(letters, textId, consoleId) {
   var waiting = false;
   var blink = 2;
   var target = document.getElementById(textId);
+console.log(target.innerHTML);
   var completed = false;
+  var consoleTo = 400;
 
   var typingFunction = function() {
     if (letterCount === 0 && waiting === false) {
@@ -35,12 +37,10 @@ function consoleText(letters, textId, consoleId) {
       visible = true;
       blink -= 1;
     }
-    if (blink > 0) {
-      window.setTimeout(consoleFunction, 400)
-    } else {
+    if (blink === 0) {
       window.setTimeout(typingFunction, 120)
     }
   }
 
-  window.setTimeout(consoleFunction, 400)
+  window.setInterval(consoleFunction, consoleTo)
 }
