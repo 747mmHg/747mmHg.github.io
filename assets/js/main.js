@@ -1,5 +1,3 @@
-consoleText('Hi there', 'output', 'console-line');
-
 function consoleText(letters, textId, consoleId) {
   var visible = true;
   var con = document.getElementById(consoleId);
