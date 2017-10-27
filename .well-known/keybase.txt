@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/747mmhg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://747mmhg.me
+  * I am 747mmhg (https://keybase.io/747mmhg) on keybase.
+  * I have a public key ASCfu4EsWp39csdEeEQkTr8A_MfnOZtYXphhBKN5BJna6go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101077b2ceeb50e207f39da4fca6a465d5d10b93b2b8ebf6d91d45eae50622e91610a",
+      "host": "keybase.io",
+      "kid": "01209fbb812c5a9dfd72c7447844244ebf00fcc7e7399b585e986104a3790499daea0a",
+      "uid": "9875b2e0f951a6c2c0f91fae7c6d9f19",
+      "username": "747mmhg"
+    },
+    "merkle_root": {
+      "ctime": 1509091186,
+      "hash": "97d9aaf61566e1ac9c51add0f8172ea936c4b4f96636c6aa0c491d0197ec81ea030fbe367fb43fa9eb549b2346246be673a0d25f0fafbf9c3eb127b22efa6d10",
+      "hash_meta": "b8ef065f6d445b30a1ba78abc736b4ce62f53846fbcf00d3a61d8d31be555bb4",
+      "seqno": 1636201
+    },
+    "service": {
+      "hostname": "747mmhg.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1509091229,
+  "expire_in": 504576000,
+  "prev": "4f872849b9f6a412ec3a7b609959cf272bcf2b9a9ae952dcba43f398126e0f43",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn7uBLFqd/XLHRHhEJE6/APzH5zmbWF6YYQSjeQSZ2uoKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDc3YjJjZWViNTBlMjA3ZjM5ZGE0ZmNhNmE0NjVkNWQxMGI5M2IyYjhlYmY2ZDkxZDQ1ZWFlNTA2MjJlOTE2MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWZiYjgxMmM1YTlkZmQ3MmM3NDQ3ODQ0MjQ0ZWJmMDBmY2M3ZTczOTliNTg1ZTk4NjEwNGEzNzkwNDk5ZGFlYTBhIiwidWlkIjoiOTg3NWIyZTBmOTUxYTZjMmMwZjkxZmFlN2M2ZDlmMTkiLCJ1c2VybmFtZSI6Ijc0N21taGcifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDkwOTExODYsImhhc2giOiI5N2Q5YWFmNjE1NjZlMWFjOWM1MWFkZDBmODE3MmVhOTM2YzRiNGY5NjYzNmM2YWEwYzQ5MWQwMTk3ZWM4MWVhMDMwZmJlMzY3ZmI0M2ZhOWViNTQ5YjIzNDYyNDZiZTY3M2EwZDI1ZjBmYWZiZjljM2ViMTI3YjIyZWZhNmQxMCIsImhhc2hfbWV0YSI6ImI4ZWYwNjVmNmQ0NDViMzBhMWJhNzhhYmM3MzZiNGNlNjJmNTM4NDZmYmNmMDBkM2E2MWQ4ZDMxYmU1NTViYjQiLCJzZXFubyI6MTYzNjIwMX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiI3NDdtbWhnLm1lIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDkwOTEyMjksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNGY4NzI4NDliOWY2YTQxMmVjM2E3YjYwOTk1OWNmMjcyYmNmMmI5YTlhZTk1MmRjYmE0M2YzOTgxMjZlMGY0MyIsInNlcW5vIjoxNywidGFnIjoic2lnbmF0dXJlIn2jc2lnxED6R2nlznEyIimP7I+8rmIUOtQSYf9PI2JpYbgrPzC6lWkpLgfcsFexcqGNAuBKAj3lLkIDO2rkcLA3B8PWPtICqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgWler1DoxnRoG71ZZ5nPt29eL44K9gsBtA39eXdsuI1yjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/747mmhg
+
+==================================================================
