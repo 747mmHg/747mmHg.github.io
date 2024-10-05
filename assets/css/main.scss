@@ -5,7 +5,7 @@
 
 body {
    padding: 50px 0;
-   font-size: 13px;
+   font-size: 12vw;
    font-family: "Fira Mono";
    font-style: normal;
    font-weight: 400;
@@ -16,17 +16,16 @@ body {
   opacity: 0;
 }
 .console-container {
-  font-size: 6em;
   text-align:center;
-  height:200px;
-  width:610px;
-  display:block;
+  display:flex;
   position:absolute;
   top:0;
   bottom:0;
   left:0;
   right:0;
   margin:auto;
+  align-items: center;
+  justify-content: center;
 }
 .console-underscore {
   display:inline-block;
